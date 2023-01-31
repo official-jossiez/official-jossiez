@@ -1,4 +1,4 @@
-### Hi there 👋 A passionate frontend developer :)
+### Hi there 👋 I'm A passionate frontend developer :)
 
 **official-jossiez/official-jossiez**
 
